@@ -1,4 +1,4 @@
-This is a repro of a bug that happens on Android when a Go application is built with some CGO lib dependency using [fyne](https://github.com/fyne-io/fyne/). Here is the stack trace of the original bug:
+This is a repro of a bug that happens on Android when a Go application is built with some CGO lib dependency using [fyne](https://github.com/fyne-io/fyne/). Here is the stack trace of the bug:
 ```
 type: crash
 osVersion: google/lynx/lynx:14/AP2A.240905.003/2024091400:userdebug/release-keys
