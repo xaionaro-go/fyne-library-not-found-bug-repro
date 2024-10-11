@@ -1,0 +1,8 @@
+Website = "https://github.com/xaionaro/streamctl"
+
+[Details]
+  Icon = "assets/logo.png"
+  Name = "fyneNoLibBugRepro"
+  ID = "center.dx.fyneNoLibBugRepro"
+  Version = "0.1.0"
+  Build = 10
